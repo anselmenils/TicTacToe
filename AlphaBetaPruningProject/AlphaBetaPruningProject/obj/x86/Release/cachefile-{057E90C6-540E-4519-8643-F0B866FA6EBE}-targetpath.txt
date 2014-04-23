@@ -1,0 +1,8 @@
+Content\Sprites\Board.xnb
+Content\Sprites\Circle.xnb
+Content\Sprites\Cross.xnb
+Content\Sprites\FirstButton.xnb
+Content\Sprites\SecondButton.xnb
+Content\Sprites\OWins.xnb
+Content\Sprites\XWins.xnb
+Content\Sprites\Draw.xnb

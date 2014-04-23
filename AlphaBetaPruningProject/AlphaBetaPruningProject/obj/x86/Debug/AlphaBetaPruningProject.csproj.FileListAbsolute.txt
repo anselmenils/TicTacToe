@@ -1,0 +1,14 @@
+C:\Users\Rocky\Dropbox\Work\Poly 2013-2014 Fall\CS6613\AlphaBetaPruningProject\AlphaBetaPruningProject\AlphaBetaPruningProject\bin\x86\Debug\Content\Sprites\Board.xnb
+C:\Users\Rocky\Dropbox\Work\Poly 2013-2014 Fall\CS6613\AlphaBetaPruningProject\AlphaBetaPruningProject\AlphaBetaPruningProject\bin\x86\Debug\AlphaBetaPruningProject.exe
+C:\Users\Rocky\Dropbox\Work\Poly 2013-2014 Fall\CS6613\AlphaBetaPruningProject\AlphaBetaPruningProject\AlphaBetaPruningProject\bin\x86\Debug\AlphaBetaPruningProject.pdb
+C:\Users\Rocky\Dropbox\Work\Poly 2013-2014 Fall\CS6613\AlphaBetaPruningProject\AlphaBetaPruningProject\AlphaBetaPruningProject\obj\x86\Debug\AlphaBetaPruningProject.csprojResolveAssemblyReference.cache
+C:\Users\Rocky\Dropbox\Work\Poly 2013-2014 Fall\CS6613\AlphaBetaPruningProject\AlphaBetaPruningProject\AlphaBetaPruningProject\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Rocky\Dropbox\Work\Poly 2013-2014 Fall\CS6613\AlphaBetaPruningProject\AlphaBetaPruningProject\AlphaBetaPruningProject\obj\x86\Debug\AlphaBetaPruningProject.exe
+C:\Users\Rocky\Dropbox\Work\Poly 2013-2014 Fall\CS6613\AlphaBetaPruningProject\AlphaBetaPruningProject\AlphaBetaPruningProject\obj\x86\Debug\AlphaBetaPruningProject.pdb
+C:\Users\Rocky\Dropbox\Work\Poly 2013-2014 Fall\CS6613\AlphaBetaPruningProject\AlphaBetaPruningProject\AlphaBetaPruningProject\bin\x86\Debug\Content\Sprites\Circle.xnb
+C:\Users\Rocky\Dropbox\Work\Poly 2013-2014 Fall\CS6613\AlphaBetaPruningProject\AlphaBetaPruningProject\AlphaBetaPruningProject\bin\x86\Debug\Content\Sprites\Cross.xnb
+C:\Users\Rocky\Dropbox\Work\Poly 2013-2014 Fall\CS6613\AlphaBetaPruningProject\AlphaBetaPruningProject\AlphaBetaPruningProject\bin\x86\Debug\Content\Sprites\FirstButton.xnb
+C:\Users\Rocky\Dropbox\Work\Poly 2013-2014 Fall\CS6613\AlphaBetaPruningProject\AlphaBetaPruningProject\AlphaBetaPruningProject\bin\x86\Debug\Content\Sprites\SecondButton.xnb
+C:\Users\Rocky\Dropbox\Work\Poly 2013-2014 Fall\CS6613\AlphaBetaPruningProject\AlphaBetaPruningProject\AlphaBetaPruningProject\bin\x86\Debug\Content\Sprites\OWins.xnb
+C:\Users\Rocky\Dropbox\Work\Poly 2013-2014 Fall\CS6613\AlphaBetaPruningProject\AlphaBetaPruningProject\AlphaBetaPruningProject\bin\x86\Debug\Content\Sprites\XWins.xnb
+C:\Users\Rocky\Dropbox\Work\Poly 2013-2014 Fall\CS6613\AlphaBetaPruningProject\AlphaBetaPruningProject\AlphaBetaPruningProject\bin\x86\Debug\Content\Sprites\Draw.xnb
